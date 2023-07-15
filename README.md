@@ -1,1 +1,1 @@
-# sign-up-form
+# This repository contains files for my version of the sign-up form project from The Odin Project.
